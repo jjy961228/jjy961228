@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 전장영 입니다 👋
 
 <!--
 **jjy961228/jjy961228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
